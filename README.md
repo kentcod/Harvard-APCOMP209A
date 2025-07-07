@@ -5,6 +5,7 @@ Data Science 1 is the first half of a one-year introduction to data science. The
 ## Contents
 All assigments were completed in Jupyter Notebooks with questions provided by Instructor Pavlos Protopapas and Natesh Pillai.
 - Completed homework assignments
+- Consolidated Slide Decks for Midterm 1 & 2
 - Final project is located in the publicly available [Google Drive](https://drive.google.com/drive/folders/11MoZeozmnmw7EGVAgh7-9OGg0eAruyXh?usp=sharing)
 
 ## Syllabus
